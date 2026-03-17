@@ -3,7 +3,7 @@
 A responsive landing page for a Bose product website built using HTML and SCSS.
 The project focuses on layout implementation, semantic markup, and responsive design.
 
-**Live Demo:** [DEMO LINK](https://Demtar23.github.io/landing_page/)
+**Live Demo:** [Bose Landing Page](https://Demtar23.github.io/landing_page/)
 
 ## Technologies Used
 
